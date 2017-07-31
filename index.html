@@ -7,10 +7,6 @@ title: {{ site.name }}
   {% for post in site.posts %}
     <div class="post">
 
-      <div class="title-photo">
-        <img src={{ post.image }} class=banner-img></img>
-      </div>
-
       <div class="title-box">
         <h2>{{ post.title }}</h2>
         <p>{{ post.date | date_to_string }}</p>
