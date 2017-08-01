@@ -29,9 +29,9 @@ plugins:
 sass:
   sass_dir: _sass
 
-gems: ['kramdown']
+plugins: ['kramdown']
 
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'heroku_apps_list']
 
 
 # Exclude from processing.
