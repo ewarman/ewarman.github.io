@@ -31,6 +31,7 @@ sass:
 
 plugins: ['kramdown']
 
+include: ['_pages']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'heroku_apps_list']
 
 
