@@ -6,14 +6,12 @@
   <body>
     {% include page-header.html %}
     <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-          {% include post-nav.html %}
-        </div>
+      <div class="left-sidebar">
+        {% include post-nav.html %}
+      </div>
 
-        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-          {{ content }}
-        </div>
+      <div class="post-container">
+        {{ content }}
       </div>
     </div>
     {% include page-footer.html %}
