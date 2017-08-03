@@ -8,5 +8,8 @@ gem 'rake'
 gem 'puma'
 
 group :jekyll_plugins do
+ gem 'jekyll-admin'
+ gem 'jekyll-analytics'
+
 
 end

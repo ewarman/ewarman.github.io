@@ -33,11 +33,15 @@ plugins:
 sass:
   sass_dir: _sass
 
-plugins: ['kramdown']
+plugins: ['kramdown', 'jekyll-analytics']
 
 include: ['_pages']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'heroku_apps_list']
 
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-61768938-1
+    anonymizeIp: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
