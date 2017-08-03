@@ -1,24 +1,4 @@
-@media (max-width: 768px) {
-  .post-nav {
-    display: none !important;
-  }
-  .post-container {
-    width: 100% !important;
-  }
-}
-
-.left-sidebar {
-  width: 20%;
-  float: left;
-}
-
-.post-container {
-  width: 80%;
-  float: left;
-}
-
 .post-nav {
-  margin-top: 30px;
   padding-top: 30px;
   border: 1px solid #eee;
   height: 100%;
