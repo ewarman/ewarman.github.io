@@ -5,18 +5,28 @@ permalink: /
 ---
 
 <div id="main">
-  {% for post in site.posts %}
-    <div class="post">
+  {% if site.posts != empty %}
+    {% for post in site.posts %}
+      <div class="post">
 
-      <div class="title-box">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.date | date_to_string }}</p>
-      </div>
+        <div class="title-box">
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.date | date_to_string }}</p>
+        </div>
 
-      <div class="post-body">
-        <p>{{ post.excerpt }}</p>
-        <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+        <div class="post-body">
+          <p>{{ post.excerpt }}</p>
+          <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+        </div>
       </div>
+    {% endfor %}
+
+  {% else %}
+  <div class="body-content">
+    <div class="title-box">
+      <h2>Posts coming soon!</h2>
     </div>
-  {% endfor %}
+  </div>
+  {% endif %}
+
 </div>
