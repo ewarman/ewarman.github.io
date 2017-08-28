@@ -17,9 +17,9 @@ title: Emily Warman
 description:
   I write about software development and my life (which is ~70% software development)
   <br><br>
-  📍 San Francisco
+  📍  San Francisco
   <br>
-  💼 Engineering Resident @ Google
+  💼  Engineering Resident @ Google
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
