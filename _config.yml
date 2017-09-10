@@ -20,9 +20,9 @@ bio:
   📍  San Francisco
   <br>
   💼  Engineering Resident @ Google
-description: I write about software development and my life (which is ~70% software development)
+description: A software development and software development lifestyle blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.emilywarman.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ewarman
 author: Emily Warman
 # Build settings
