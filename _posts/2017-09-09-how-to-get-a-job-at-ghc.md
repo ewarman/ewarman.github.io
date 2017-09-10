@@ -1,7 +1,7 @@
 ---
 title: How to Get a Job at GHC
 layout: post
-image: /assets/img/ghc_keynote.jpg
+image: "/assets/img/ghc_keynote.jpg"
 description: A couple of tips and tricks from a veteran job seeker
 comments: true
 categories: career
@@ -62,8 +62,6 @@ Occasionally, you will interview with a company early in the school year and men
 ---
 
 ### Go hard on Day 1
-<img class="center" src="https://media.giphy.com/media/lKe5Ll88iZMmQ/giphy.gif" />
-
 Day 1 opening is basically a polite version of Black Friday at Walmart. Onsite interview slots fill up fast, so be sure to visit your high interest companies within a few hours of the doors opening. My game plan was always to do a quick sweep of the conference, talk to a few companies I wasn’t very interested in to warm up, and then visit my top picks. Expect to spend your entire day one distributing your resume and visiting booths.
 
 ### Have your pitch ready to go
