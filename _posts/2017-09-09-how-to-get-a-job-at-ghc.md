@@ -1,8 +1,8 @@
 ---
 title: How to Get a Job at GHC
 layout: post
-image: /assets/img/ghc_keynote.jpg
-description: "A couple of tips and tricks from a veteran job seeker"
+image: {{ site.url }}/assets/img/ghc_keynote.jpg
+description: A couple of tips and tricks from a veteran job seeker
 comments: true
 categories: career
 ---
