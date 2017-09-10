@@ -7,7 +7,7 @@ comments: true
 categories: career
 ---
 
-As a student from a small, under the radar university, my job seeking strategy was to go hard at conference career fairs every year. Companies I wanted to work for didn’t come to my college career fair, so I had to go to them! Conference career fairs worked out well for me, so I  share some tips to help job seekers make the most of this year's opportunities. Here’s a list of the onsite interviews I’ve done at conferences over the past three years:
+As a student from a small, under the radar university, my job seeking strategy was to go hard at conference career fairs every year. Companies I wanted to work for didn’t come to my college career fair, so I had to go to them! Conference career fairs worked out well for me, so I wanted to share some tips to help you make the most of this year's opportunities. Here’s a list of the onsite interviews I’ve done at conferences over the past three years:
 
 **GHC**
 * Facebook (2015, 2016 for full time role)
@@ -90,6 +90,6 @@ You may totally screw up an onsite interview. I certainly did, multiple times. M
 Technical interviews are so hard. Take comfort in knowing that we all mess up interviews and that you get better at interviewing every time you do one. Know that you can interview at the company again next year. I interviewed with Facebook again at GHC the following year (and still didn’t pass the interview 🙃 ). All you can do is keep your chin up and slay the next one. My Bloomberg interview later that day was awesome and I got the internship!
 
 ### GHC isn’t all about interviews
-This point is pretty obvious, but there’s a lot more to GHC than the career fair. Definitely attend the opening ceremonies and the keynote. Connect with others you know attending GHC and have coffee or a snack together. Companies host tons of events or speakers with free food and swag that may not be written about in the official GHC guide. Definitely attend any events that you hear about because they're a blast and it's easy to meet people! One of my favorite memories of GHC was talking to a senior executive of GE at an afterparty and hearing about her 30+ year career in technology. The connections you make and maintain at GHC are people you will see throughout your career. Don’t get so wrapped up in interviewing that you don’t enjoy all GHC has to offer.
+This point is pretty obvious, but there’s a lot more to GHC than the career fair. Definitely attend the opening ceremonies and the keynote. Connect with others you know attending GHC and have coffee or a snack together. Companies host tons of events or speakers with free food and swag that may not be written about in the official GHC guide. Definitely attend any events that you hear about because they're a blast and it's easy to meet people! One of my favorite memories of GHC was talking to a senior executive of GE at an afterparty and hearing about her 30+ year career in technology. Don’t get so wrapped up in interviewing that you forget to enjoy all GHC has to offer.
 
 I hope these tips help you land tons of conference interviews this year! Good luck!
