@@ -1,7 +1,9 @@
 ---
 title: How to Get a Job at GHC
 layout: post
-image: assets/img/ghc_keynote.jpg
+image: /assets/img/ghc_keynote.jpg
+comments: true
+categories: career
 ---
 
 As a student from a small, under the radar university, my job seeking strategy was to go hard at conference career fairs every year. Companies I wanted to work for didn’t come to my college career fair, so I had to go to them! Conference career fairs worked out well for me, so I  share some tips to help job seekers make the most of this year's opportunities. Here’s a list of the onsite interviews I’ve done at conferences over the past three years:
@@ -28,12 +30,12 @@ These tips are going to be GHC specific to keep things simple, but most of them 
 This is a great tip even if you’re not attending -- companies will contact you anyways! I was contacted by Dell and Square pre-GHC to set up interviews because I submitted my resume. Here's [this year's resume database](https://ghc.anitaborg.org/2017-attend/resume-database/). Just make sure your email and phone number are correct so they have a way to contact you!
 
 ### Print 50+ copies of your resume
-You’ll give out a resume to every company you talk to, so make sure you have more than enough! It is expensive to print at the Kinko’s inside of the convention center, especially if your resume includes color. There’s also a huge line of others trying to do the same thing. There’s nothing more frustrating than knowing that everyone else is filling up interview slots while you’re in line to print something. 
+You’ll give out a resume to every company you talk to, so make sure you have more than enough! It is expensive to print at the Kinko’s inside of the convention center, especially if your resume includes color. There’s also a huge line of others trying to do the same thing. There’s nothing more frustrating than knowing that everyone else is filling up interview slots while you’re in line to print something.
 
 This is probably a good time to talk about business cards. I have printed them every year, hated how they looked, and never used them anyways. They are really handy for networking and entering raffles, but not necessary for job seeking. As long as your email and phone number appear on your resume, having a business card is preferred, but optional.
 
 ### Get your bag and folder game on lock
-This is more of an optional step, but it really helped me feel confident and comfortable at the conference. Invest in a leather portfolio or at least a new 40 cent folder from Walmart to keep your resumes neat and clean. Bringing a large tote is helpful for holding your folder and whatever swag you get from interviews. It helps avoid back to back interview awkwardness when you can keep the swag from interview 1 out of sight from interview 2. Helpful things to keep in your bag for a state of constant job interview: 
+This is more of an optional step, but it really helped me feel confident and comfortable at the conference. Invest in a leather portfolio or at least a new 40 cent folder from Walmart to keep your resumes neat and clean. Bringing a large tote is helpful for holding your folder and whatever swag you get from interviews. It helps avoid back to back interview awkwardness when you can keep the swag from interview 1 out of sight from interview 2. Helpful things to keep in your bag for a state of constant job interview:
 * Pen
 * Stain remover stick
 * Sweater or jacket
@@ -41,7 +43,7 @@ This is more of an optional step, but it really helped me feel confident and com
 * Makeup essentials
 * Portable charger
 
-Should you bring your computer? It’s up to you, but I probably wouldn’t if it’s heavy. It is exhausting to carry it around all day, especially on Day 1. It can come in handy though. I had a pair programming interview with Square that I used my computer for one year, so it was helpful for that. It’s also helpful to have if your phone runs out of power. Sometimes I would use my computer to study for interviews in a nearby cafe before they happened. 
+Should you bring your computer? It’s up to you, but I probably wouldn’t if it’s heavy. It is exhausting to carry it around all day, especially on Day 1. It can come in handy though. I had a pair programming interview with Square that I used my computer for one year, so it was helpful for that. It’s also helpful to have if your phone runs out of power. Sometimes I would use my computer to study for interviews in a nearby cafe before they happened.
 
 ### Pack comfortable, business casual clothing
 GHC is awesome because there is no dress code. There are just as many people wearing dresses as there are t-shirts and jeans. If you’re interviewing, I think [business casual](https://www.pinterest.com/insperityjobs/business-casual-womens/) is the way to go. Also, comfortable shoes only! GHC is not the time to break out your brand new heels. You will be doing so much walking and standing while exploring the conference. The last thing you need during a technical interview for your dream job is sore, blistered feet.
@@ -53,7 +55,7 @@ I always dreaded this step for some reason, but it makes a huge difference. My r
 3. Organize your interest list by priority
 
 ### Know that you can say no to companies who want to pre-schedule a GHC interview
-Occasionally, you will interview with a company early in the school year and mention that you will be attending GHC during the interview process. They may try to reschedule one of your phone screens to be in person at GHC. Some people love this, some people are really stressed by this. Just know that the ball is in your court on this one. If you feel more comfortable interviewing over the phone, don’t feel pressured to accept the GHC interview. 
+Occasionally, you will interview with a company early in the school year and mention that you will be attending GHC during the interview process. They may try to reschedule one of your phone screens to be in person at GHC. Some people love this, some people are really stressed by this. Just know that the ball is in your court on this one. If you feel more comfortable interviewing over the phone, don’t feel pressured to accept the GHC interview.
 
 ## During the conference
 ---
@@ -72,7 +74,7 @@ When I am in front of the recruiter, the conversation usually goes like this:
 “Hi! I’m a recruiter, nice to meet you too. What’s up?”
 “I’m a 4th year computer science major looking for full time jobs. I’m really interested in your company because [insert your reason here]. Are you hiring?”
 
-At this point, they usually say yes and ask for your resume. If they don’t ask for your resume, this is a good time to ask if you can give it to them. Typically, they will look at it immediately. They may ask you some questions about your resume. These should be easy to answer because you did all of the things on your resume. Be technical, but brief. Frequently, the recruiter you’re talking to is an engineer as well, so they appreciate some technical depth on the answers. Sometimes they will ask you a light technical interview question. This is a good sign. If they like your answer, you’re probably about to schedule an onsite interview with them. 
+At this point, they usually say yes and ask for your resume. If they don’t ask for your resume, this is a good time to ask if you can give it to them. Typically, they will look at it immediately. They may ask you some questions about your resume. These should be easy to answer because you did all of the things on your resume. Be technical, but brief. Frequently, the recruiter you’re talking to is an engineer as well, so they appreciate some technical depth on the answers. Sometimes they will ask you a light technical interview question. This is a good sign. If they like your answer, you’re probably about to schedule an onsite interview with them.
 
 If there’s not a huge line, asking questions about the recruiter’s experience at the company is a great way to keep the conversation rolling. I like to ask how long they’ve worked there, their role, what office they work at, and what they love about their company.
 
