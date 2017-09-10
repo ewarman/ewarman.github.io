@@ -10,6 +10,7 @@ gem 'puma'
 group :jekyll_plugins do
  gem 'jekyll-admin'
  gem 'jekyll-analytics'
+ gem 'jekyll-seo-tag'
 
 
 end

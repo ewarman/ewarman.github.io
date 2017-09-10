@@ -7,12 +7,5 @@
   <link rel="icon" type="image/ico" href="/assets/img/favicon.ico">
   <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-  {% if page.image %}
-    <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
-  {% endif %}
-  {% if page.description %}
-    <meta content="{{ page.decription }}" property="og:description">
-  {% else %}
-    <meta content="{{ site.description }}" property="og:description">
-  {% endif %}
+  {% seo %}
 </head>

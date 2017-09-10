@@ -14,26 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Emily Warman
-description:
+bio:
   I write about software development and my life (which is ~70% software development)
   <br><br>
   📍  San Francisco
   <br>
   💼  Engineering Resident @ Google
+description: I write about software development and my life (which is ~70% software development)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: ewarman
 author: Emily Warman
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 sass:
   sass_dir: _sass
 
-plugins: ['kramdown', 'jekyll-analytics']
+plugins: ['kramdown', 'jekyll-analytics', 'jekyll-feed', 'jekyll-seo-tag']
 
 include: ['_pages']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'heroku_apps_list']
