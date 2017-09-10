@@ -2,7 +2,7 @@
 title: How to Get a Job at GHC
 layout: post
 image: ghc_keynote.jpg
-description:
+description: Career fair 101 from a veteran job seeker
 comments: true
 categories: career
 ---
