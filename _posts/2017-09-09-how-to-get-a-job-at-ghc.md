@@ -1,7 +1,8 @@
 ---
 title: How to Get a Job at GHC
 layout: post
-image: /assets/img/ghc_keynote.jpg
+image: ghc_keynote.jpg
+description:
 comments: true
 categories: career
 ---
@@ -61,7 +62,9 @@ Occasionally, you will interview with a company early in the school year and men
 ---
 
 ### Go hard on Day 1
-You know those people on Black Friday who stand in front of Best Buy for 10 hours and push children over when the doors open so they can get a good deal on a flatscreen? You need to be that Black Friday shopper on day 1 of the career fair. Make sure you visit your high interest companies within 3 hours of the doors opening. My game plan was always to do a quick sweep of the conference, talk to a few companies I wasn’t very interested in to warm up, and then visit my top picks. It’s so important to visit early because onsite interview slots fill up quickly. They will still have your resume, but the best way to get your foot in the door somewhere is an onsite interview. Expect to spend your entire day one distributing your resume and visiting booths.
+<img class="center" src="https://media.giphy.com/media/lKe5Ll88iZMmQ/giphy.gif" />
+
+Day 1 opening is basically a polite version of Black Friday at Walmart. Onsite interview slots fill up fast, so be sure to visit your high interest companies within a few hours of the doors opening. My game plan was always to do a quick sweep of the conference, talk to a few companies I wasn’t very interested in to warm up, and then visit my top picks. Expect to spend your entire day one distributing your resume and visiting booths.
 
 ### Have your pitch ready to go
 It helps a lot to know what you’re going to say when you finally get to talk to a representative at the booth. Here's what I usually do:
@@ -84,11 +87,11 @@ At the end of the conversation, they may ask to schedule an onsite interview. If
 Lots of companies will schedule interviews after they had the chance to review all of the resumes they’ve received that day. Keep an eye on your calls, texts, and email inbox. These communications are super time sensitive. Don’t worry about spending too much time formulating a response. Speed is way more important than perfect wording. Make sure you write down all of your interview times and meeting places as you receive them so you don’t double book! Try to get as much information as you can about the format of the interview from your point of contact. They will likely tell you if the interview is technical or not, but may not tell you if the interview will be on a whiteboard or a computer.
 
 ### Interview performance != your worth or intelligence
-You may totally screw up an onsite interview. I certainly did, multiple times. My first interview with Facebook was a disaster. They asked me a simple algorithm question that I totally blanked on. I had no idea where to start. I had a horrible attitude about it; I definitely cried a little and the interview ended early. I still cringe thinking about it.
+You may totally screw up an onsite interview. I certainly did, multiple times. My first interview with Facebook was a disaster. They asked me a simple algorithm question that I totally blanked on. I had no idea where to start. I had a horrible attitude about it; I definitely cried a little and the interview ended very early. I still cringe thinking about it.
 
 Technical interviews are so hard. Take comfort in knowing that we all mess up interviews and that you get better at interviewing every time you do one. Know that you can interview at the company again next year. I interviewed with Facebook again at GHC the following year (and still didn’t pass the interview 🙃 ). All you can do is keep your chin up and slay the next one. My Bloomberg interview later that day was awesome and I got the internship!
 
 ### GHC isn’t all about interviews
-This point is pretty obvious, but there’s a lot more to GHC than the career fair. Definitely attend the opening ceremonies and the keynote speaker. Connect with others you know attending GHC and have coffee or a snack together. Go to afterparties and meet other women in computing! One of my favorite memories of GHC was talking to a senior executive of GE at an afterparty and hearing about her 30+ year career in technology. The connections you make and maintain at GHC are people you will see throughout your career. Don’t get so wrapped up in interviewing that you don’t enjoy all GHC has to offer.
+This point is pretty obvious, but there’s a lot more to GHC than the career fair. Definitely attend the opening ceremonies and the keynote. Connect with others you know attending GHC and have coffee or a snack together. Companies host tons of events or speakers with free food and swag that may not be written about in the official GHC guide. Definitely attend any events that you hear about because they're a blast and it's easy to meet people! One of my favorite memories of GHC was talking to a senior executive of GE at an afterparty and hearing about her 30+ year career in technology. The connections you make and maintain at GHC are people you will see throughout your career. Don’t get so wrapped up in interviewing that you don’t enjoy all GHC has to offer.
 
 I hope these tips help you land tons of conference interviews this year! Good luck!

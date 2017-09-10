@@ -10,4 +10,9 @@
   {% if page.image %}
     <meta content="/assets/img/{{ page.image }}" property="og:image">
   {% endif %}
+  {% if page.description %}
+    <meta content="{{ page.decription }}" property="og:description">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+  {% endif %}
 </head>
