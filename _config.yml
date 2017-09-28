@@ -19,8 +19,8 @@ bio:
   <br><br>
   📍  San Francisco
   <br>
-  💼  Engineering Resident @ Google
-description: A software development and software development lifestyle blog
+  💼  Software Engineer @ Google
+description: A software development lifestyle and career blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.emilywarman.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ewarman
